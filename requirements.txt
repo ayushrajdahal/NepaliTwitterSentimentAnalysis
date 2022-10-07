@@ -1,0 +1,9 @@
+pandas==1.4.3
+langdetect==1.0.9
+googletrans==3.1.0a0
+regex==2022.8.17
+tweepy==4.10.1
+transformers==4.21.2
+scipy==1.9.1
+textblob==0.17.1
+flair==0.11.3
